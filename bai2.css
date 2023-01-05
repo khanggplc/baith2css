@@ -1,0 +1,81 @@
+body{
+    background-image: url("https://wallpapers.com/images/featured/qm880qoivnph7k2b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    display: inline-block;
+    line-height: 60px;
+    width: 120px;
+    height: 60px;
+}
+h1{
+    font-size:50px;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+p.stop{
+    color:rgb(255, 255, 255);
+    margin-top:20px;
+    margin-left:30px;
+    margin-bottom:40px;
+}
+.learn{
+    text-decoration: none;
+    color:rgb(59, 59, 59);
+    padding:20px;
+    background-color:rgb(222, 222, 222);
+    margin-left:30px;
+    
+
+}
+.thanh1{
+    width:100%;
+    height:60px;
+    background-color: rgb(255, 255, 255);
+    
+
+   
+}
+a{
+    text-decoration: none;
+}
+.color{
+    color:black;
+}
+.logo{
+    padding:20px;
+    text-align:center;
+
+}
+*{
+    margin:0;
+    padding:0;
+}
+ul{
+    list-style-type: none;
+    margin-left:0px;
+}
+a:link{
+    color:black;
+}
+a:hover{
+    background-color:rgb(186, 189, 189);
+}
+.hidden{
+    display:hidden;
+}
+ul{
+    list-style-type: none;
+}
+.cach{
+    display: flex;
+    justify-content: space-between;
+}
+.ico{
+    margin-left:70px;
+    margin-top:300px;
+}
+.icons{
+    bottom:0px;
+}
